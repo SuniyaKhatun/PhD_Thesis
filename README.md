@@ -1,2 +1,2 @@
 # PhD_Thesis
-PhD_Thesis_Scripts
+This folder contains all scripts and data used for data analysis in my PhD thesis. It is organised by thesis chapters.
